@@ -21,4 +21,6 @@ Example Workflow:
 2. secret.txt → encrypted output
 3. original.txt → decrypted and restored text
 License: MIT License
-Author: Bhoumik Kumar D
+Author: Bhoumik Kumar Das
+Sec F roll no 323
+
